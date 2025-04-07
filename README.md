@@ -1,4 +1,4 @@
-# DerbyStore: Java Object Persistence Library
+# SerialDB: Java Object Persistence Library
 
 Java library for storing objects in Derby database.
 
